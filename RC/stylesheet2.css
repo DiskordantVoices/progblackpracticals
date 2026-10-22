@@ -1,0 +1,13 @@
+.BlueBackground {
+	background-color: powderblue;
+}
+
+body {
+	font-family: calibri;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
