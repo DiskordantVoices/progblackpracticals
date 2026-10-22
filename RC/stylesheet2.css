@@ -1,15 +1,22 @@
 .BlueBackground {
-	background-color: powderblue;
+	
 }
 
 body {
 	font-family: calibri;
+	margin-left: 25px;
+	background-image: linear-gradient(to bottom, powderblue, white);
 }
 
 h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.center {
+	display: flex;
+	justify-content: center;
+  	align-items: center;
 }
 
 dt {	
